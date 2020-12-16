@@ -1,0 +1,11 @@
+#ansible-ubuntu-srv1
+172.104.243.62
+
+#ansible-ubuntu-srv2
+172.105.88.136
+
+#ansible-ubuntu-srv3
+172.105.94.116
+
+#workstation
+#172.104.247.156
