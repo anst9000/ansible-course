@@ -7,5 +7,8 @@
 #ansible-ubuntu-srv3
 172.105.94.116
 
+#ansible-centos-srv4
+172.104.144.102
+
 #workstation
 #172.104.247.156
