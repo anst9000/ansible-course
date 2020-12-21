@@ -1,14 +1,19 @@
+[web_servers]
 #ansible-ubuntu-srv1
-172.104.243.62 apache_package=apache2 php_package=libapache2-mod-php
-
-#ansible-ubuntu-srv2
-172.105.88.136 apache_package=apache2 php_package=libapache2-mod-php
-
-#ansible-ubuntu-srv3
-172.105.94.116 apache_package=apache2 php_package=libapache2-mod-php
-
+172.104.243.62
 #ansible-centos-srv4
-172.104.144.102 apache_package=httpd php_package=php
+172.104.144.102
+
+
+[db_servers]
+#ansible-ubuntu-srv2
+172.105.88.136
+
+
+[file_servers]
+#ansible-ubuntu-srv3
+172.105.94.116
+
 
 #workstation
 #172.104.247.156
