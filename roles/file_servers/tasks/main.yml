@@ -1,0 +1,5 @@
+- name: install samba package - Ubuntu, CentOS
+  tags: samba
+  package:
+    name: samba
+    state: latest
